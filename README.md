@@ -1,3 +1,4 @@
+[![An image of @krishop90's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/krishop90)](https://holopin.io/@krishop90)
 ## Hi there 👋
 
 <!--
