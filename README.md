@@ -1,7 +1,9 @@
 [![An image of @krishop90's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/krishop90)](https://holopin.io/@krishop90)
 # 💫 About Me:
 hi there krish here <br>currently doing dsa and dev
-
+<br> passionate about learning new things , technology
+<br> State level hackathon (SSIP by Gujarat Government finalist 2023)
+<br> 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krish-mungalpara) 
