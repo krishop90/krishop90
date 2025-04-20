@@ -1,6 +1,7 @@
-<h1 align="center">
-  <img src="https://img.shields.io/badge/Hi%20this%20is%20Krish!!-blue?style=for-the-badge&logo=github" />
-</h1>
+<!-- Typing Intro Section -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Krish+👋;Full+Stack+Dev+%7C+DSA+Lover+%7C+Hackathon+Finalist;Exploring+new+tech+%7C+Solving+problems+%7C+Building+stuff" alt="Typing Intro" />
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" height="250" />
@@ -71,14 +72,6 @@
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/krishop90/count.svg" />
-</p>
-
----
-
-### 🌗 Theme Mode Badge
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Theme-Auto-light%2Fdark?style=for-the-badge&logo=github" />
 </p>
 
 ---
