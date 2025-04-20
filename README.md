@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b><span style="color:blue">Hi this is Krish !!</span></b>
+  <img src="https://img.shields.io/badge/Hi%20this%20is%20Krish!!-blue?style=for-the-badge&logo=github" />
 </h1>
 
 <p align="center">
@@ -20,7 +20,7 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,js,html,css,php,react,nodejs,express,django,spring,flutter,mysql,mongodb,firebase,git,github,figma,tailwind,vercel" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,nodejs,express,mysql,mongodb,git,github,figma,tailwind,nextjs,python" />
 </p>
 
 ---
@@ -70,10 +70,17 @@
 ### 🔥 Visitor Count
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=krishop90&label=Profile+Views&color=6&icon=5&pretty=true" />
+  <img src="https://profile-counter.glitch.me/krishop90/count.svg" />
+</p>
+
+---
+
+### 🌗 Theme Mode Badge
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Theme-Auto-light%2Fdark?style=for-the-badge&logo=github" />
 </p>
 
 ---
 
 <!-- Made with ❤️ by Krish | Powered by GPRM -->
-
