@@ -1,6 +1,6 @@
 <!-- Typing Intro Section -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Krish+👋;Full+Stack+Dev+%7C+DSA+Lover+%7C+Hackathon+Finalist;Exploring+new+tech+%7C+Solving+problems+%7C+Building+stuff" alt="Typing Intro" />
+  <img src="https://github.com/krishop90/krishop90/blob/main/typing.gif?raw=true" alt="Typing Intro" width="435" />
 </p>
 
 <p align="center">
@@ -73,12 +73,5 @@
 
 ---
 
-### 🌗 Theme Mode Badge
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Theme-Auto-light%2Fdark?style=for-the-badge&logo=github" />
-</p>
-
----
 
 <!-- Made with ❤️ by Krish | Powered by GPRM -->
