@@ -61,9 +61,6 @@
   <a href="https://www.linkedin.com/in/krish-mungalpara-8a718a260" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://holopin.io/@krish2o" target="_blank">
-    <img src="https://img.shields.io/badge/Holopin-%231E1E1E.svg?style=for-the-badge&logo=holopin" />
-  </a>
 </p>
 
 ---
@@ -72,6 +69,14 @@
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/krishop90/count.svg" />
+</p>
+
+---
+
+### 🌗 Theme Mode Badge
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Theme-Auto-light%2Fdark?style=for-the-badge&logo=github" />
 </p>
 
 ---
