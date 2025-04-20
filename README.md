@@ -1,5 +1,5 @@
-<h1 align="center" color = "blue">
-  <b> "Hi this is Krish !!" </b>
+<h1 align="center">
+  <b><span style="color:blue">Hi this is Krish !!</span></b>
 </h1>
 
 <p align="center">
@@ -22,8 +22,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,cpp,js,html,css,php,react,nodejs,express,django,spring,flutter,mysql,mongodb,firebase,git,github,figma,tailwind,vercel" />
 </p>
-
----
 
 ---
 
@@ -50,19 +48,32 @@
 
 ### 🧠 LeetCode Activity
 
-```md
-<!-- You can use external tool like GitHub Readme LeetCode Stats -->
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/krish2o?theme=dark&font=Karma&ext=contest" />
 </p>
 
-🌐 Connect with Me
-<p align="center"> <a href="https://www.linkedin.com/in/krish-mungalpara-8a718a260" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://holopin.io/@krish2o" target="_blank"> 
+---
 
-🌗 Theme Switch Badge (Fun!)
-<p align="center"> <a href="https://github.com/krishop90"> <img src="https://img.shields.io/badge/Theme-Radical-FF69B4?style=flat-square&logo=github" /> </a> </p>
+### 🌐 Connect with Me
 
-🔥 Visitor Count
-<p align="center"> <img src="https://visitcount.itsvg.in/api?id=krishop90&label=Profile+Views&color=6&icon=5&pretty=true" /> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/krish-mungalpara-8a718a260" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://holopin.io/@krish2o" target="_blank">
+    <img src="https://img.shields.io/badge/Holopin-%231E1E1E.svg?style=for-the-badge&logo=holopin" />
+  </a>
+</p>
 
-<!-- Made with ❤️ by Krish | Profile powered by GPRM (https://gprm.itsvg.in) -->
+---
+
+### 🔥 Visitor Count
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=krishop90&label=Profile+Views&color=6&icon=5&pretty=true" />
+</p>
+
+---
+
+<!-- Made with ❤️ by Krish | Powered by GPRM -->
+
