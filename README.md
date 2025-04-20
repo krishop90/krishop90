@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F75C7E&width=435&lines=Hey!+I'm+Krish+👋;Developer+%7C+Tech+Explorer+%7C+DSA+Enthusiast;Always+Learning+%E2%9C%A8;Let's+build+something+amazing+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F75C7E&width=435&lines=Hey!+I'm+Krish+👋;Developer+%7C+Tech+Explorer+%7C+DSA+Enthusiast;Always+Learning+%E2%9C%A8;Let's+build+something+amazing+💻" alt="Hi this is Krish !!" />
 </h1>
 
 <p align="center">
@@ -24,12 +24,6 @@
 </p>
 
 ---
-
-### 📝 Resume | Certificates | Blogs
-
-- 📄 [My Resume](#) *(Replace `#` with your resume link)*  
-- 📜 [Certificates Folder](#) *(Upload to Drive/GitHub and link here)*  
-- ✍️ [My Blogs](#) *(Link to Hashnode/Medium/Dev.to/etc)*
 
 ---
 
@@ -56,13 +50,10 @@
 
 ### 🧠 LeetCode Activity
 
-> Add your real username to this widget  
-> Replace `krishop90` below with your LeetCode username
-
 ```md
 <!-- You can use external tool like GitHub Readme LeetCode Stats -->
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/krishop90?theme=dark&font=Karma&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/krish2o?theme=dark&font=Karma&ext=contest" />
 </p>
 
 🌐 Connect with Me
@@ -78,12 +69,4 @@
 
 ---
 
-If you give me:
-- Your **resume link**
-- Blog (Medium, Hashnode) if you write anywhere
-- Any **certificate link** folder
-
-I'll plug them in for you 🔌
-
-Want a cool animated background or GitHub Skyline-style contribution graph too? Just say the word 😎
 
