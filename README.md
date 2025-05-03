@@ -51,6 +51,8 @@
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/krish2o?theme=dark&font=Karma&ext=contest" />
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/krish2o?theme=dark&font=baloo&ext=activity)
+
 </p>
 
 ---
