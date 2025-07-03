@@ -50,7 +50,7 @@
 ### 🧠 LeetCode Activity
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/krish2o?theme=dark&font=Karma&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/_k90?theme=dark&font=Karma&ext=contest" />
 </p>
 
 ---
