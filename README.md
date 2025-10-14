@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/1eEK9Wd8v2a1a/giphy.gif" alt="Animated Coding Intro" width="550"/>
+  <img src="[https://media.giphy.com/media/1eEK9Wd8v2a1a/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDhkYWNlbGIxZzJhOTJybzdnbGdvNHk0d3l0NTR5bGlkN3JtOWlxbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TTRnvIFE4wYLK/giphy.gif)" alt="Animated Coding Intro" width="550"/>
 </p>
 
 <h1 align="center">Welcome, Traveler, to Krish's Digital Domain! 🐉</h1>
