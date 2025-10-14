@@ -30,7 +30,7 @@ Behold, the tools with which I conjure digital wonders! This is my **Infinity Ga
   <img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,nextjs,tailwind,nodejs,express,mysql,mongodb,python,git,github,figma&perline=6" />
 </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/ejfQbLASZpA9G/giphy.gif" alt="It's over 9000!" width="150"/> 
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHl6a29vdzYybjViZnBrMXprMnlsdmJyaXVhbzJmdnA0Z3UwOGR1NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6Q5YVYykWMGuH78A54/giphy.gif" alt="It's over 9000!" width="150"/> 
 </p>
 
 ---
