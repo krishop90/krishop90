@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajR2bDU4bW1iYTlhMDdhNHV6cHgwZ3p0Y2hyOGluZmVleWlrN3V6dSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/KDyoY2v2MlDHy/giphy.gif" alt="Animated Coding Intro" width="440"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajR2bDU4bW1iYTlhMDdhNHV6cHgwZ3p0Y2hyOGluZmVleWlrN3V6dSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/KDyoY2v2MlDHy/giphy.gif" alt="Animated Coding Intro" width="250"/>
 </p>
 
 <h1 align="center">Welcome, Traveler, to Krish's Digital Domain! 🐉</h1>
