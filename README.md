@@ -40,7 +40,7 @@ Behold, the tools with which I conjure digital wonders! This is my **Infinity Ga
 Witness my digital guardians, overseeing my contributions and flying high with every line of code!
 
 <p align="center">
-  <img src="https://media.giphy.com/media/uFkR0yA6c5g23OMh40/giphy.gif" alt="Flying Dragon Animation" width="400"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Yzl6bGJ5ZDdvbWxyZjEzZmh0bmJyejRxNjE0d215MnQyZHp2OXhkNSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/6hbjk67dtI8zuiFyUA/giphy.gif" alt="Flying Dragon Animation" width="400"/>
 </p>
 
 ### 🌌 Chronicles of Contribution
