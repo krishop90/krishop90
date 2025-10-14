@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFWlmt/giphy.gif" alt="Animated Coding Intro" width="550"/>
+  <img src="https://media.giphy.com/media/1eEK9Wd8v2a1a/giphy.gif" alt="Animated Coding Intro" width="550"/>
 </p>
 
 <h1 align="center">Welcome, Traveler, to Krish's Digital Domain! 🐉</h1>
@@ -30,7 +30,8 @@ Behold, the tools with which I conjure digital wonders! This is my **Infinity Ga
   <img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,nextjs,tailwind,nodejs,express,mysql,mongodb,python,git,github,figma&perline=6" />
 </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTJ0czdtaHJ5MjdjY2Q3NnloYjM0aG1hNGh3cXBxazNxaDM1d2FzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l4FGJmN8c0e2P9o8g/giphy.gif" alt="It's over 9000!" width="150"/> </p>
+  <img src="https://media.giphy.com/media/ejfQbLASZpA9G/giphy.gif" alt="It's over 9000!" width="150"/> 
+</p>
 
 ---
 
@@ -39,7 +40,7 @@ Behold, the tools with which I conjure digital wonders! This is my **Infinity Ga
 Witness my digital guardians, overseeing my contributions and flying high with every line of code!
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODgxcjVzZGNhNzQ4ZzJ4Nnd0M3V4bmpsZzZ4d2M2NmQ4a3E0MnRuZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l4FGk19VzK0Wp46d2/giphy.gif" alt="Flying Dragon Animation" width="400"/>
+  <img src="https://media.giphy.com/media/uFkR0yA6c5g23OMh40/giphy.gif" alt="Flying Dragon Animation" width="400"/>
 </p>
 
 ### 🌌 Chronicles of Contribution
