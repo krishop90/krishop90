@@ -6,7 +6,7 @@
 <h3 align="center">Full Stack Developer | Problem Solver | Innovator</h3>
 
 <p align="center">
-  <a href="https://krishop90.github.io" target="_blank">
+  <a href="https://portfolio-rshq.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/krish-mungalpara-8a718a260" target="_blank">
@@ -21,7 +21,7 @@
 
 ### ⚙️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,ts,js,cpp,python,tailwind,git,github,figma&perline=7"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,ts,js,cpp,python,tailwind,git,github,postgresql&perline=7"/>
 </p>
 
 ---
