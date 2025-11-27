@@ -31,9 +31,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=krishop90&show_icons=true&theme=radical&hide_border=true" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishop90&theme=radical&hide_border=true" height="150"/>
 </p>
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=krishop90&theme=dark&hide_border=true" alt="GitHub Streak" width="400" />
-</a>
+[![Krish's GitHub Streak](https://streak-stats.demolab.com?user=krishop90&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
